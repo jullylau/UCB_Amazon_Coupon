@@ -125,6 +125,7 @@ Other factors that has minor positive impact on acceptance rate:
 
 ##### Overall acceptance rate for coffee house coupons
 - Drivers are just as likely to accept coffee house coupons as they are to reject them
+
 ![Coffee House Coupon Acceptance Rate](images/ch_coupon_rate.png)
 
 ##### Coffee house coupons by distance to the driver
@@ -150,6 +151,7 @@ Comparison of those in this cohort and others:
   | 2 pm | 55% |
   | 6 pm | 41% |
   | 10 pm | 42% |
+
 ![Coffee House Coupon Acceptance Rate by Time](images/ch_coupon_rate_by_time.png)
 
 ##### What can increase accept evening and late night coupons?
