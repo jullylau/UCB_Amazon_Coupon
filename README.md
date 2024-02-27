@@ -40,4 +40,10 @@ direction as the destination.
 ### Result
 - Coupon was accepted or rejected
 
-Full data set: [coupons.csv](data/coupons.csv)
+## Data Set
+- Number of records: 12,684
+- Missing data
+  - Type of car data missing for majority of the records
+  - Frequency for going to bar, coffee house, restaurants and getting takeout are missing 1-2% of the records  
+
+Data file: [coupons.csv](data/coupons.csv)
