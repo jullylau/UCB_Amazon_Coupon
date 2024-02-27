@@ -84,6 +84,7 @@ Data file: [coupons.csv](data/coupons.csv)
 
 ##### 25+ years old who visits bar more than once a month
 - Acceptance rate is 70% for customers who go to a bar more than once a month and are over 25 vs others 34%
+
 ![Bar Coupon Acceptance Rate by Age and Frequency](images/coupon_ratio_bargoer_by_age.png)
 
 ##### Drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry
