@@ -54,16 +54,16 @@ Data file: [coupons.csv](data/coupons.csv)
 - Bars and high-end restaurants are likely to be rejected
 - Coffee house coupons are equally likely to be accepted or rejected
 
-  ![Coupon Acceptance Rate by Type](images/coupon_pct_by_type.png)
+![Coupon Acceptance Rate by Type](images/coupon_pct_by_type.png)
 
 ### Effect of Temperature on Coupon Acceptance
 - More coupons are accepted when temperature is high
 - Customers are more likely to accept coffee house and restaurant less than $20 when weather is hot
 - Coupons for take away is most popular on cold days
-    
-  ![Coupon Acceptance Rate by Temperature](images/coupon_pct_by_temp.png)
 
-  ![Coupon Acceptance Count by Temperature](images/accepted_coupon_cnt_by_temp.png)
+![Coupon Acceptance Rate by Temperature](images/coupon_pct_by_temp.png)
+
+![Coupon Acceptance Count by Temperature](images/accepted_coupon_cnt_by_temp.png)
 
 ### Bar Coupon Acceptance Analysis
 - Overall, 41% of Bar coupon were accepted
@@ -74,6 +74,7 @@ Data file: [coupons.csv](data/coupons.csv)
 
 ##### Overall acceptance rate for bar coupons
 - Overall, 41% of Bar coupon were accepted
+
 ![Bar Coupon Acceptance Rate](images/bar_coupon_accept_pct.png)
 
 ##### Frequent bar goers
@@ -87,6 +88,7 @@ Data file: [coupons.csv](data/coupons.csv)
 
 ##### Drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry
 - Acceptance rate is 71% for drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry vs 30% for others
+
 ![Bar Coupon Acceptance Rate by Passenger and Occupation](images/bar_coupon_rate_for_group_1.png)
 
 ##### Drivers in specific conditions
