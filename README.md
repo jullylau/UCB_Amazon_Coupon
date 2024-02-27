@@ -175,3 +175,11 @@ Compared to 48% acceptance for coupons offered not under the same condition
   - Evening and late night coupons are more likely to be accepted if they are offered for longer duration
   - This could be due to the fact that people are more likely to go to coffee houses in the evening and late night for socializing and relaxation
   
+## Next Steps
+- Use machine learning to predict acceptance rate for different type of coupons
+- Recommend coupons to drivers based on their attributes and contextual factors
+- Get data on recommended coupons to improve the model
+- Collect more attribute data 
+  - Get missing attributes, e.g. type of car
+  - Offer different length of coupon expiry
+  - Rating on venues
